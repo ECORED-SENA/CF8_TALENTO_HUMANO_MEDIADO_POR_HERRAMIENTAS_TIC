@@ -1,8 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo:
+      'Informática y digitalización en el proceso de preselección de candidatos',
+    descripcionCurso:
+      'En la actualidad, las herramientas ofimáticas, informáticas y digitales se usan para todas las gestiones dentro de una organización, por eso en el presente componente formativo, el aprendiz conocerá cómo aplicarlas en su formación en el área de talento humano y sacar el mayor provecho en su gestión diaria.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
   },
   menuPrincipal: {
