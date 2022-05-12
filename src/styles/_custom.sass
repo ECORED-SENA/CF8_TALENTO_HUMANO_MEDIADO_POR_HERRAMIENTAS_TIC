@@ -82,7 +82,7 @@ span.b
       margin: 0 auto
 // Card icon //
 //----------------------------------------//
-// Slyder con tarjetas ////R
+// Slyder con tarjetas //
 .contenedor-tarjetas
   padding: 0 3rem
   display: flex
@@ -101,4 +101,26 @@ span.b
       width: 39px
     p
       margin-left: 1rem 
+// Slyder con tarjetas //
+//----------------------------------------//
+//Tarjetas hover// 
+.hover-morado
+  background-color: #ffffff
+  transition: background-color 0.5s ease-in-out
+  b, p
+    transition: color 0.2s ease-in-out 
+  &:hover 
+    background-color: $color-acento-contenido
+    b,p,
+      color: $white !important
+.hover-morado2
+  background-color: #f6f6f6
+  transition: background-color 0.5s ease-in-out
+  b, p
+    transition: color 0.2s ease-in-out 
+  &:hover 
+    background-color: $color-acento-contenido
+    b,p,
+      color: $white !important
+
 
