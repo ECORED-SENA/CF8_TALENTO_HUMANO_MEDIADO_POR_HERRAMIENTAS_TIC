@@ -27,11 +27,120 @@
       span.b--3 En la siguiente tabla se enumeran los tipos de herramientas informáticas y digitales.
     .row.justify-content-center.mb-5
       .col-lg-10
-        .titulo-sexto.color-acento-botones
+        .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
           span Herramientas informáticas y digitales
 
-    //todo Pendiente maquetar tabla // 
+        .tabla-editada 
+          .tabla-a.color-acento-botones.mb-5
+            table
+              thead.bg-azul-oscuro
+                tr
+                  th Ítem
+                  th Tipos de herramientas informáticas y digitales
+                  th Ítem
+                  th Tipos de herramientas informáticas y digitales
+              tbody
+                tr
+                  th.text-center.w-50 1
+                  th Para compartir pantalla.
+                  th.text-center.w-50 21
+                  th Pizarra.
+                tr
+                  td.text-center.w-50 2
+                  td Seminarios web y transmisiones web.
+                  td.text-center.w-50 22
+                  td Soporte y gestión de reuniones.
+                tr
+                  td.text-center.w-50 3
+                  td Gestión de proyectos y tareas.
+                  td.text-center.w-50 23
+                  td Audioconferencia.
+                tr
+                  td.text-center.w-50 4
+                  td Alternativas a Skype.
+                  td.text-center.w-50 24
+                  td Herramientas de mapas mentales.
+                tr
+                  td.text-center.w-50 5
+                  td Software de videoconferencia gratuito.
+                  td.text-center.w-50 25
+                  td Plataformas y software del foro.
+                tr
+                  td.text-center.w-50 6
+                  td Mensajería de equipo y colaboración.
+                  td.text-center.w-50 26
+                  td Enviar archivos grandes.
+                tr
+                  td.text-center.w-50 7
+                  td Presente en vivo directo al dispositivo.
+                  td.text-center.w-50 27
+                  td Chat de texto.
+                tr
+                  td.text-center.w-50 8
+                  td Video-chat 1 a 1.
+                  td.text-center.w-50 28
+                  td Agrupación de trabajo.
+                tr
+                  td.text-center.w-50 9
+                  td Escritura colaborativa.
+                  td.text-center.w-50 29
+                  td Compartición de archivos.
+                tr
+                  td.text-center.w-50 10
+                  td Conferencia web empresarial.
+                  td.text-center.w-50 30
+                  td Chat en vivo para asistencia al cliente.
+                tr
+                  td.text-center.w-50 11
+                  td Aplicaciones web de videoconferencia.
+                  td.text-center.w-50 31
+                  td Compartir documentos.
+                tr
+                  td.text-center.w-50 12
+                  td Revisión visual colaborativa.
+                  td.text-center.w-50 32
+                  td 3D virtuales.
+                tr
+                  td.text-center.w-50 13
+                  td Conferencia web SOHO.
+                  td.text-center.w-50 33
+                  td Espacios de colaboración lado a lado.
+                tr
+                  td.text-center.w-50 14
+                  td Videoconferencia profesional.
+                  td.text-center.w-50 34
+                  td Acceso remoto.
+                tr
+                  td.text-center.w-50 15
+                  td Espacios de colaboración.
+                  td.text-center.w-50 35
+                  td Transcripción en tiempo real.
+                tr
+                  td.text-center.w-50 16
+                  td Co-navegación.
+                  td.text-center.w-50 36
+                  td Software Wiki.
+                tr
+                  td.text-center.w-50 17
+                  td Mensajería instantánea.
+                  td.text-center.w-50 37
+                  td Obtener comentarios.
+                tr
+                  td.text-center.w-50 18
+                  td Pizarra colaborativa.
+                  td.text-center.w-50 38
+                  td Uso compartido instantáneo de archivos.
+                tr
+                  td.text-center.w-50 19
+                  td Programadores de reuniones colaborativas.
+                  td.text-center.w-50 39
+                  td Anotación web.
+                tr
+                  td.text-center.w-50 20
+                  td Grabación de Skype.
+                  td.text-center.w-50 40
+                  td Reuniones asíncronas.
 
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -186,4 +295,12 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.tabla-editada
+  thead
+    border-color: #ecad51 !important
+.bg-azul-oscuro
+  background-color: #12263f !important
+  th
+    color: $white !important
+</style>
