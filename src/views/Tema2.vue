@@ -18,7 +18,7 @@
       h2 2.1  Tipos
     p.mb-5 Dentro de las herramientas ofimáticas, existen unas que son más utilizadas por las organizaciones para mejorar el desempeño y productividad de sus actividades diarias. Estas son:
     .row.justify-content-center.align-items-start.mb-
-      .col-lg-5: img(data-aos='zoom-in')(src="@/assets/curso/temas/36.svg")
+      .col-lg-5.mb-5.mb-lg-0: img(data-aos='zoom-in')(src="@/assets/curso/temas/36.svg")
       .col-lg-7
         SlyderF.mb-5.aling-cards(columnas="col-lg-4 col-xl-4")
           .tarjeta.hover-morado.p-4.py-5.h-100
@@ -60,51 +60,51 @@
       img(src="@/assets/curso/temas/3.svg" style="width: 84px").me-3.d-lg-block.d-none
       p Sin duda, las herramientas ofimáticas ofrecen múltiples servicios en los diferentes contextos en los que se emplean, debido a que estas cobran importancia porque se basan en la creación, manipulación, transmisión y almacenamiento de la información que se genera.
     p.mb-5 Ahora, se invita a conocer la descripción de cada una de las herramientas mencionadas anteriormente:
-    .row.justify-content-center.mb-3
-      .col-lg-3
+    .row.justify-content-center
+      .col-lg-3.mb-3.mb-lg-0
         .tarjeta.hover-morado2.p-4.py-5.h-100(data-aos='flip-down')
             img(src="@/assets/curso/temas/37.png" style=' width: 93px').mb-3.m-auto
             p.text-center
               b Access
             p.text-center Herramienta para administrar bases de datos.
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0
           .tarjeta.hover-morado2.p-4.py-5.h-100(data-aos='flip-down')
             img(src="@/assets/curso/temas/38.png" style=' width: 93px').mb-3.m-auto
             p.text-center
               b Word
             p.text-center Herramienta para procesar textos.
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0
           .tarjeta.hover-morado2.p-4.py-5.h-100(data-aos='flip-down')
             img(src="@/assets/curso/temas/39.png" style=' width: 93px').mb-3.m-auto
             p.text-center
               b Power Point
             p.text-center Herramienta para presentaciones
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0
           .tarjeta.hover-morado2.p-4.py-5.h-100(data-aos='flip-down')
             img(src="@/assets/curso/temas/40.png" style=' width: 93px').mb-3.m-auto
             p.text-center
               b Excel
             p.text-center Herramienta para crear base de datos, gráficos, tablas, en la cual se pueden desarrollar diferentes operaciones lógicas.
     .row.justify-content-center.mb-5
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0
           .tarjeta.hover-morado2.p-4.py-5.h-100(data-aos='flip-down')
             img(src="@/assets/curso/temas/41.png" style=' width: 93px').mb-3.m-auto
             p.text-center
               b Outlook, Gmail, Yahoo
             p.text-center  Herramientas para enviar y recibir mensajes por medio de mails.
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0
           .tarjeta.hover-morado2.p-4.py-5.h-100(data-aos='flip-down')
             img(src="@/assets/curso/temas/42.png" style=' width: 93px').mb-3.m-auto
             p.text-center
               b Publisher 
             p.text-center Herramienta de diseño.
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0
           .tarjeta.hover-morado2.p-4.py-5.h-100(data-aos='flip-down')
             img(src="@/assets/curso/temas/43.png" style=' width: 93px').mb-3.m-auto
             p.text-center
               b Paint
             p.text-center Herramienta para edición de gráficos.
-      .col-lg-3
+      .col-lg-3.mb-3.mb-lg-0
           .tarjeta.hover-morado2.p-4.py-5.h-100(data-aos='flip-down')
             img(src="@/assets/curso/temas/44.png" style=' width: 93px').mb-3.m-auto
             p.text-center
@@ -163,7 +163,8 @@
           p.mb-0 En la red también se pueden crear y gestionar los diferentes tipos de documentos antes vistos por medio de Google, Yahoo y Outlook. Se invita a que, desde su usuario de correo electrónico SENA o personal, revise cada una de estas herramientas.
           .card-icon__img
             img(src="@/assets/curso/temas/5.svg")
-      .col-lg-5: img(data-aos='zoom-in-up')(src="@/assets/curso/temas/52.svg")
+      .col-lg-5
+        img(src="@/assets/curso/temas/52.svg")
 
 </template>
 

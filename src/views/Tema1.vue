@@ -8,7 +8,7 @@
       h1 Herramientas informáticas y digitales
     .franja-degradado.mb-5
       .row.mb-justify-content-center
-        .col-lg-7
+        .col-lg-7.mb-4.mb-lg-0
           p Las herramientas informáticas y digitales se usan a diario tanto en la vida cotidiana como en la laboral, al utilizar aplicaciones como alternativas para el desarrollo de las actividades.
           .d-flex.align-items-center.justify-content-center
             img(src="@/assets/curso/temas/0.svg" style="width: 84px").me-3.d-lg-block.d-none
