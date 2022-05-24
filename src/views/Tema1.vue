@@ -43,12 +43,12 @@
               tbody
                 tr
                   th.text-center.w-50 1
-                  th Para compartir pantalla.
-                  th.text-center.w-50 21
-                  th Pizarra.
+                  th.fw-normal.text-start Para compartir pantalla.
+                  th.text-center.w-50.fw-normal 21
+                  th.fw-normal.text-start Pizarra.
                 tr
                   td.text-center.w-50 2
-                  td Seminarios web y transmisiones web.
+                  td Seminarios <em>web</em> y transmisiones <em>web</em>.
                   td.text-center.w-50 22
                   td Soporte y gestión de reuniones.
                 tr
@@ -63,9 +63,9 @@
                   td Herramientas de mapas mentales.
                 tr
                   td.text-center.w-50 5
-                  td Software de videoconferencia gratuito.
+                  td <em>Software</em> de videoconferencia gratuito.
                   td.text-center.w-50 25
-                  td Plataformas y software del foro.
+                  td Plataformas y <em>software</em> del foro.
                 tr
                   td.text-center.w-50 6
                   td Mensajería de equipo y colaboración.
@@ -75,10 +75,10 @@
                   td.text-center.w-50 7
                   td Presente en vivo directo al dispositivo.
                   td.text-center.w-50 27
-                  td Chat de texto.
+                  td <em>Chat</em> de texto.
                 tr
                   td.text-center.w-50 8
-                  td Video-chat 1 a 1.
+                  td Video-<em>chat</em> 1 a 1.
                   td.text-center.w-50 28
                   td Agrupación de trabajo.
                 tr
@@ -88,12 +88,12 @@
                   td Compartición de archivos.
                 tr
                   td.text-center.w-50 10
-                  td Conferencia web empresarial.
+                  td Conferencia <em>web</em> empresarial.
                   td.text-center.w-50 30
-                  td Chat en vivo para asistencia al cliente.
+                  td <em>Chat</em> en vivo para asistencia al cliente.
                 tr
                   td.text-center.w-50 11
-                  td Aplicaciones web de videoconferencia.
+                  td Aplicaciones <em>web</em> de videoconferencia.
                   td.text-center.w-50 31
                   td Compartir documentos.
                 tr
@@ -103,7 +103,7 @@
                   td 3D virtuales.
                 tr
                   td.text-center.w-50 13
-                  td Conferencia web SOHO.
+                  td Conferencia <em>web</em> SOHO.
                   td.text-center.w-50 33
                   td Espacios de colaboración lado a lado.
                 tr
@@ -120,7 +120,7 @@
                   td.text-center.w-50 16
                   td Co-navegación.
                   td.text-center.w-50 36
-                  td Software Wiki.
+                  td <em>Software Wiki</em>.
                 tr
                   td.text-center.w-50 17
                   td Mensajería instantánea.
@@ -135,7 +135,7 @@
                   td.text-center.w-50 19
                   td Programadores de reuniones colaborativas.
                   td.text-center.w-50 39
-                  td Anotación web.
+                  td Anotación <em>web</em>.
                 tr
                   td.text-center.w-50 20
                   td Grabación de Skype.

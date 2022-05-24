@@ -13,7 +13,7 @@
       .col-lg-5
         
             img(src="@/assets/curso/temas/35.svg" style="width: 84px").me-3.d-lg-block.d-none.mb-3
-            p La ofimática es un instrumento creado para ejercer las actividades comunes en las organizaciones tales como informes, bases de datos, presentaciones, programaciones, indicadores de gestión. Es decir, es una herramienta creada para mejorar la calidad de vida de los trabajadores en las oficinas y como su nombre lo indica ofi-matica es la unión de las palabras oficina e informática.
+            p La ofimática es un instrumento creado para ejercer las actividades comunes en las organizaciones tales como informes, bases de datos, presentaciones, programaciones, indicadores de gestión. Es decir, es una herramienta creada para mejorar la calidad de vida de los trabajadores en las oficinas y como su nombre lo indica ofi-mática es la unión de las palabras oficina e informática.
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.1  Tipos
     p.mb-5 Dentro de las herramientas ofimáticas, existen unas que son más utilizadas por las organizaciones para mejorar el desempeño y productividad de sus actividades diarias. Estas son:
@@ -91,7 +91,7 @@
             img(src="@/assets/curso/temas/41.png" style=' width: 93px').mb-3.m-auto
             p.text-center
               b Outlook, Gmail, Yahoo
-            p.text-center  Herramientas para enviar y recibir mensajes por medio de mails.
+            p.text-center  Herramientas para enviar y recibir mensajes por medio de <em>mails</em>.
       .col-lg-3.mb-3.mb-lg-0
           .tarjeta.hover-morado2.p-4.py-5.h-100(data-aos='flip-down')
             img(src="@/assets/curso/temas/42.png" style=' width: 93px').mb-3.m-auto

@@ -166,26 +166,25 @@ export default {
   },
   complementario: [
     {
-      texto:
-        'Tecnología secundaria. (2020). Las herramientas informáticas. [Video]. YouTube. ',
+      texto: 'Tecnología secundaria. (2020). Las herramientas informáticas. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=YBcuyAc1Ph8',
     },
     {
       texto:
-        'New Code. (2020). Herramientas ofimáticas – capacitación TIC básico. [Video]. YouTube. ',
+        'New Code. (2020). Herramientas ofimáticas – capacitación TIC básico. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=x9lJiQQZmI8',
     },
     {
       texto:
-        'Every TI - Cybersecurity. (2020). Políticas de seguridad de la información. [Video]. YouTube.',
+        'Every TI - Cybersecurity. (2020). Políticas de seguridad de la información.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=LuMUo_E5FjI',
     },
     {
       texto:
-        'Acsendo. (2019). Software de recursos humanos: 5 razones para usarlo en tu empresa. [Video]. YouTube.',
+        'Acsendo. (2019). Software de recursos humanos: 5 razones para usarlo en tu empresa.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=SbYmtPtbxVI',
     },
@@ -244,22 +243,21 @@ export default {
   ],
   referencias: [
     {
-      referencia:
-        'Aula Clic. (s. f.). (2014). Curso de Access 2010. http://www.aulaclic.es/access-2010/index.htm ',
-      link: '',
+      referencia: 'Aula Clic. (s. f.). (2014). Curso de Access 2010.  ',
+      link: 'http://www.aulaclic.es/access-2010/index.htm',
     },
     {
       referencia:
-        'Gálvez, I. (s.f.). (2014). Programa técnico sistemas - Access. http://sistemastics2013.blogspot.com.co/',
-      link: '',
+        'Gálvez, I. (s.f.). (2014). Programa técnico sistemas - Access. ',
+      link: 'http://sistemastics2013.blogspot.com.co/',
     },
   ],
   creditos: {
     liderEquipo: [
       {
-        nombre: 'Maria Camila Garcia Santamaria',
+        nombre: 'María Camila García Santamaría',
         cargo: 'Líder del equipo',
-        centro: 'Dirección General',
+        centro: 'Dirección general',
       },
     ],
     contenidoInstruccional: [
@@ -272,16 +270,16 @@ export default {
       {
         nombre: 'Diego Villalobos Barreto',
         cargo: 'Experto Temático',
-        centro: 'Cgi - Sena Distrito Capital Grupo De Apoyo Administrativo ',
+        centro: 'Cgi - Sena Distrito Capital Grupo de Apoyo Administrativo ',
       },
       {
         nombre: 'Gloria Alexandra Orejarena Barrios',
-        cargo: 'Diseñadora Instruccional',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro de Gestión Industrial - Regional Distro Capital',
       },
       {
         nombre: 'Ana Catalina Córdoba Sus',
-        cargo: 'Asesora Metodológica',
+        cargo: 'Asesora metodológica',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital ',
       },
       {
@@ -304,19 +302,55 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy María Ruíz Torres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Camilo Andres Bolaño Rey',
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'John Jairo Arciniegas González',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Carmen Alicia Martínez Torres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ludwyng Corzo García',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Bolaño Rey',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Maria Eugenia Mejía Lopez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -324,7 +358,7 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
+        nombre: 'Álvaro Andrés Angarita Ramírez',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
