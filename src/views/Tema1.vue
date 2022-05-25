@@ -155,7 +155,7 @@
           .col-lg-10
             figure.mb-5
               .video
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/XhV_SPdaPTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/bBe2L838IBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
             p.text-center.fw-bold.mb-0 Descripción y funcionalidad de las diferentes herramientas informáticas y digitales – Parte 1.  
         .row.justify-content-center.mb-5
           .col-lg-10
