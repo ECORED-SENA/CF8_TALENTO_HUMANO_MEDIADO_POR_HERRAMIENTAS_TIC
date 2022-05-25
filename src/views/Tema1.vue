@@ -147,7 +147,7 @@
       h2 1.2  Descripción y funcionalidad
     .d-flex.align-items-center.justify-content-center
       img(src="@/assets/curso/temas/3.svg" style="width: 84px").me-3.d-lg-block.d-none
-      p Existen múltiples funciones atribuidas a las herramientas informática y digitales y aunque algunas de ellas presten funciones similares en los aplicativos, contienen diferencias integradas ya sea por el chat, video o grabación y mensajería entre otras.  
+      p Existen múltiples funciones atribuidas a las herramientas informáticas y digitales y aunque algunas de ellas presten funciones similares en los aplicativos, contienen diferencias integradas ya sea por el chat, video o grabación y mensajería entre otras.  
     p.mb-5 A continuación, se describe cada uno de los tipos de herramientas informáticas y digitales estudiadas en la Tabla 1 con su respectiva funcionalidad.
     .slyder-1.p-5.mb-5
       SlyderA(tipo='b')

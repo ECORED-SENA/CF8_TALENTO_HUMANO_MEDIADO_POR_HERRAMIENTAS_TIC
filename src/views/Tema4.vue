@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero.text-white
         span 4
-      h1 Aplicabilidad informática y digital en el proceso de preseleccións
+      h1 Aplicabilidad informática y digital en el proceso de preselección
     .row.mb-justify-content-center.align-items-center.mb-4
         .col-lg-5: img(data-aos='zoom-in-up')(src="@/assets/curso/temas/61.png")
         .col-lg-7
@@ -159,7 +159,7 @@
       .col-lg-4: img(data-aos='zoom-in-up')(src="@/assets/curso/temas/89.svg")
       .col-lg-8
         .cajon.color-acento-contenido.morado-claro.p-4.mb-4
-          p.mb-0 Para concluir, se aclara que cada día se va evolucionando en todos los aspectos y la utilización de nuevas herramientas informáticas y digitales es un hecho como, por ejemplo, la realidad virtual para simular la actividad de un candidato ejerciendo un puesto de trabajo, o la misma inteligencia artificial que, por medio de un <em>software</em>, mejore y resuelva las situaciones que se generan en con las personas.
+          p.mb-0 Para concluir, se aclara que cada día se va evolucionando en todos los aspectos y la utilización de nuevas herramientas informáticas y digitales es un hecho como, por ejemplo, la realidad virtual para simular la actividad de un candidato ejerciendo un puesto de trabajo, o la misma inteligencia artificial que, por medio de un <em>software</em>, mejore y resuelva las situaciones que se generan  con las personas.
         .card-icon.color-neutral.p-4
           p.mb-0 Esperamos que el contenido temático de esta formación sea de gran apoyo cada día en la gestión del aprendiz y le invitamos a resolver la actividad didáctica que le servirá como refuerzo de lo aprendido.
           .card-icon__img

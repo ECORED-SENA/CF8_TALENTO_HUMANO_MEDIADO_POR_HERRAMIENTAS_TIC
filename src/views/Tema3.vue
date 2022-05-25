@@ -35,7 +35,7 @@
           img(src="@/assets/curso/temas/56.jpg")
           .tarjeta-up__content.color-acento-contenido.p-5
             h3.mb-4 Políticas de seguridad y riesgos
-            p.mb-5 Diseñadas para mitigar los riesgos que se originan, en ocasiones, por la inocencia del personal, como compartir contraseñas, descargar de anuncios, programas y demás situaciones que pueden generar tanto virus, robo de información y perjuicios económicos.
+            p.mb-5 Diseñadas para mitigar los riesgos que se originan, en ocasiones, por la inocencia del personal, como compartir contraseñas, descargas de anuncios, programas y demás situaciones que pueden generar tanto virus, robo de información y perjuicios económicos.
     p.mb-5 Se debe dar importancia y estricto cumplimiento a las políticas establecidas en cada organización para mitigar situaciones de riesgo. 
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -62,7 +62,7 @@
             | Se parametriza el contenido para que sea fácil encontrar la información al momento de consultarlo.
           li
             i.dot-circle-regular
-            | Se genera la cobertura o alcance de quiénes pueden acceder o ver la información de cada una de los instrumentos.
+            | Se genera la cobertura o alcance de quiénes pueden acceder o ver la información de cada uno de los instrumentos.
           li
             i.dot-circle-regular
             | Se presentan las funciones y ventajas de cada herramienta, así como requisitos de instalación, capacidades, accesos, permisos y demás requisitos.
